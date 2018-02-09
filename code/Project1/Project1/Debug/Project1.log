@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(313): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(314): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(337): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(338): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(352): warning C4101: “num”: 未引用的局部变量
+c:\users\wangzhen\desktop\创新实践课\我们\程序\project1\project1\源.cpp(351): warning C4101: “dom”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\wangzhen\Desktop\创新实践课\我们\程序\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\wangzhen\Desktop\创新实践课\我们\程序\Project1\Debug\Project1.pdb (Partial PDB)
